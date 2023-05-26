@@ -1,0 +1,15 @@
+###############
+#         QRcode          #
+###############
+
+apt update -y
+apt upgrade -y
+pkg install nodejs
+npm install -g qrcode
+node namafile.js
+
+
+
+
+
+~ •Powered by n00bX8• ~
